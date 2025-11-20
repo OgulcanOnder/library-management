@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "bookName": "Sefiller",
+    "bookGenre": "Roman",
+    "pageNumber": 1729,
+    "author": "Victor Hugo",
+    "borrowed": true
+  },
+  {
+    "id": 2,
+    "bookName": "Tehlikeli Oyunlar",
+    "bookGenre": "Roman",
+    "pageNumber": 479,
+    "author": "Oğuz Atay",
+    "borrowed": true
+  },
+  {
+    "id": 3,
+    "bookName": "Masumiyet Müzesi",
+    "bookGenre": "Roman",
+    "pageNumber": 529,
+    "author": "Orhan Pamuk",
+    "borrowed": false
+  }
+]
